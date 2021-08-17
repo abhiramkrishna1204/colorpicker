@@ -15,7 +15,7 @@ button{
 }
 button:hover{
  cursor: pointer;
- opacity:.8;
+ opacity:.50;
 }
 #btn__red{
     background-color: red;
